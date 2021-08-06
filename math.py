@@ -14,3 +14,5 @@ def div(x,y):
 def square(x):
      return x*x	 
 #power implementation
+def pow(x,y):
+     return x^y
